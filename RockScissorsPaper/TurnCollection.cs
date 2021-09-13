@@ -56,7 +56,7 @@ namespace RockScissorsPaper
                 }
                 if (playerNext.Button==compTurn.Button)
                 {
-                    return "YOU LOOSE!";
+                    return "YOU LOSE!";
                 }
             }
 
